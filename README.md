@@ -112,7 +112,10 @@ Main Columns:
 
 Example:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](
+<img width="885" height="501" alt="dashboard png" src="https://github.com/user-attachments/assets/fea651f3-82bd-4431-8e91-e6ae96d74aa8" />
+
+)
 
 ---
 
